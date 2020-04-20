@@ -1,2 +1,1 @@
-docker build -t app .
-docker run -it app
+Game of life using python3.7 and pygame
